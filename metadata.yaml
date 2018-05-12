@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/503
     wikipedia: http://en.wikipedia.org/wiki/Thomas_Wentworth_Higginson
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/13474#Women-and-the-Alphabet--A-Series-of-Essays
 gutenberg_issued: '2004-09-15'
 gutenberg_type: Text
 identifiers:
