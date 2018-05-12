@@ -1,0 +1,32 @@
+_repo: Women-and-the-Alphabet--A-Series-of-Essays_13474
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Higginson, Thomas Wentworth
+    alias: Higginson, T. W. (Thomas Wentworth)
+    birthdate: 1823
+    deathdate: 1911
+    gutenberg_agent_id: '503'
+    url: http://www.gutenberg.org/2009/agents/503
+    wikipedia: http://en.wikipedia.org/wiki/Thomas_Wentworth_Higginson
+description: ''
+gutenberg_issued: '2004-09-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '13474'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Women -- Social and moral questions'
+- !lcc 'PS'
+- !lcsh 'Women -- Education'
+tableOfContents: Ought women to learn the alphabet? -- Physiology -- Temperament --
+  The home -- Society -- Study and work -- Principles of government -- Suffrage --
+  Objections to suffrage.
+title: 'Women and the Alphabet: A Series of Essays'
+url: http://www.gutenberg.org/ebooks/13474
